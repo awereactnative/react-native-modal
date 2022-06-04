@@ -7,6 +7,12 @@ The goal of react-native-modal is expanding the original React Native &lt;Modal>
 <img src="https://raw.githubusercontent.com/react-native-modal/react-native-modal/master/.github/images/example-modal.gif" height="500" />
 </p>
 
+## Installation
+
+```bash
+npm i react-native-modal
+```
+
 # Example
 
 ```javascript
